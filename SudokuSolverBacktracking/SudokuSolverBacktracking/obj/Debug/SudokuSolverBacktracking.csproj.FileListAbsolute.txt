@@ -1,0 +1,6 @@
+c:\users\patri\documents\visual studio 2015\Projects\SudokuSolverBacktracking\SudokuSolverBacktracking\bin\Debug\SudokuSolverBacktracking.exe.config
+c:\users\patri\documents\visual studio 2015\Projects\SudokuSolverBacktracking\SudokuSolverBacktracking\bin\Debug\SudokuSolverBacktracking.exe
+c:\users\patri\documents\visual studio 2015\Projects\SudokuSolverBacktracking\SudokuSolverBacktracking\bin\Debug\SudokuSolverBacktracking.pdb
+c:\users\patri\documents\visual studio 2015\Projects\SudokuSolverBacktracking\SudokuSolverBacktracking\obj\Debug\SudokuSolverBacktracking.csprojResolveAssemblyReference.cache
+c:\users\patri\documents\visual studio 2015\Projects\SudokuSolverBacktracking\SudokuSolverBacktracking\obj\Debug\SudokuSolverBacktracking.exe
+c:\users\patri\documents\visual studio 2015\Projects\SudokuSolverBacktracking\SudokuSolverBacktracking\obj\Debug\SudokuSolverBacktracking.pdb
